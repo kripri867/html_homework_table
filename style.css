@@ -1,0 +1,27 @@
+.styled-table{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+}
+td, th{
+    padding: 12px 15px;
+    border: 1px solid #000000;
+}
+.color-red{
+    background-color: #ff0000;
+}
+.color-blue{
+    background-color: #0000ff;
+}
+.color-black{
+    background-color: #000000;
+}
+.color-yellow{
+    background-color: #ffff00;
+}
+.size{
+    width: 5px;
+}
